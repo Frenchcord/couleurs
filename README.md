@@ -1,6 +1,6 @@
 # couleurs
 Les couleurs de frenchcord
-# exemples
+# exemple
 ```py
 import frenchcord
 couleur = frenchcord.couleurs.rose

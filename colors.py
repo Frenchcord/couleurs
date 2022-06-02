@@ -22,6 +22,7 @@ class colors:
   darker_grey = 0x546e7a
   blurple = 0x7289da
   greyple = 0x99aab5
+
 class couleurs:
   defaut = 0
   teal = 0x1abc9c

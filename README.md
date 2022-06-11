@@ -13,5 +13,5 @@ couleur_random = frenchcord.color_random()
 # random liste
 ```py
 import frenchcord
-liste_couleur_random: list = random_liste(liste_len)
+liste_couleur_random: list = frenchcord.random_liste(liste_len)
 ```
